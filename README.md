@@ -19,7 +19,9 @@ Una herramienta de consola en .NET para generar respaldos completos (estructura 
 ##✅ Requisitos
 
 -.NET 7.0 SDK
+
 -SQL Server Local o remoto accesible
+
 -Permisos para lectura/escritura de archivos y conexión al servidor
 
 ##Autor
