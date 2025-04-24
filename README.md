@@ -16,7 +16,7 @@ Una herramienta de consola en .NET para generar respaldos completos (estructura 
 - 🧾 Registro de actividad y errores con `ILogger`.
 
 
-##✅ Requisitos
+ ## Requisitos
 
 -.NET 7.0 SDK
 
@@ -24,6 +24,8 @@ Una herramienta de consola en .NET para generar respaldos completos (estructura 
 
 -Permisos para lectura/escritura de archivos y conexión al servidor
 
-##Autor
+## Autor
+
 -Desarrollado por David Orrego Diaz
+
 -📧 Contacto: [orregod091@gmail.com]
