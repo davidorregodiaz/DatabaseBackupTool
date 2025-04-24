@@ -15,21 +15,9 @@ Una herramienta de consola en .NET para generar respaldos completos (estructura 
 - 🧱 Arquitectura desacoplada con inyección de dependencias.
 - 🧾 Registro de actividad y errores con `ILogger`.
 
-##📂 Estructura del proyecto
-
-├── Application
-│   ├── Interfaces
-│   └── Services
-├── Configuration
-│   └── AppConfiguration.cs
-├── Shared
-│   └── Util
-│       └── Print.cs
-├── BackupTool
-│   └── Program.cs
-├── appsettings.json
 
 ##✅ Requisitos
+
 -.NET 7.0 SDK
 -SQL Server Local o remoto accesible
 -Permisos para lectura/escritura de archivos y conexión al servidor
