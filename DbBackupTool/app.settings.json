@@ -1,0 +1,6 @@
+{
+  "Database": {
+    "Provider": "sqlserver",
+    "ConnectionString": "Server=DESKTOP-QEC34P4\\SQLEXPRESS;Database=BookStoreDb;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}

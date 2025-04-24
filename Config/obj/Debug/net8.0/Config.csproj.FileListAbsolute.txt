@@ -1,0 +1,5 @@
+C:\Users\david\Projects\DbBackupTool\Config\obj\Debug\net8.0\Config.csproj.AssemblyReference.cache
+C:\Users\david\Projects\DbBackupTool\Config\obj\Debug\net8.0\Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Projects\DbBackupTool\Config\obj\Debug\net8.0\Config.AssemblyInfoInputs.cache
+C:\Users\david\Projects\DbBackupTool\Config\obj\Debug\net8.0\Config.AssemblyInfo.cs
+C:\Users\david\Projects\DbBackupTool\Config\obj\Debug\net8.0\Config.csproj.CoreCompileInputs.cache

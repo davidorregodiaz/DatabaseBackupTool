@@ -1,0 +1,11 @@
+C:\Users\david\Projects\DbBackupTool\Scripts\bin\Debug\net8.0\Scripts.deps.json
+C:\Users\david\Projects\DbBackupTool\Scripts\bin\Debug\net8.0\Scripts.dll
+C:\Users\david\Projects\DbBackupTool\Scripts\bin\Debug\net8.0\Scripts.pdb
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\Scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\Scripts.AssemblyInfoInputs.cache
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\Scripts.AssemblyInfo.cs
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\Scripts.csproj.CoreCompileInputs.cache
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\Scripts.dll
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\refint\Scripts.dll
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\Scripts.pdb
+C:\Users\david\Projects\DbBackupTool\Scripts\obj\Debug\net8.0\ref\Scripts.dll

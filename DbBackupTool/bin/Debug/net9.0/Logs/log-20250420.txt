@@ -1,0 +1,3 @@
+[2025-04-20 18:23:46 INF] Backup Success
+[2025-04-20 18:31:03 ERR] Error de la base de datos
+[2025-04-20 18:31:55 ERR] Operación no válida; se ha terminado la conexión.

@@ -1,0 +1,11 @@
+
+[2025-04-20 22:08:34 INF] Backup Success
+[2025-04-20 22:36:12 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 22:36:51 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:14:46 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:19:52 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:22:40 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:23:48 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:25:25 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:46:35 INF] 📦 Backup de GameStoreDb finalizado
+[2025-04-20 23:48:10 INF] 📦 Backup de GameStoreDb finalizado

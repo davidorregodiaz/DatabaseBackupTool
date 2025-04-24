@@ -1,0 +1,17 @@
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Configure.deps.json
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Configure.dll
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Configure.pdb
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Application.dll
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Shared.dll
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Shared.pdb
+C:\Users\david\Projects\DbBackupTool\Configure\bin\Debug\net8.0\Application.pdb
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.csproj.AssemblyReference.cache
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.AssemblyInfoInputs.cache
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.AssemblyInfo.cs
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.csproj.CoreCompileInputs.cache
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.csproj.Up2Date
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.dll
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\refint\Configure.dll
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\Configure.pdb
+C:\Users\david\Projects\DbBackupTool\Configure\obj\Debug\net8.0\ref\Configure.dll

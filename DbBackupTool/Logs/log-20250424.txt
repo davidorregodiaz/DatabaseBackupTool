@@ -1,0 +1,1 @@
+[2025-04-24 00:21:11 ERR] No se ha inicializado la propiedad ConnectionString.
